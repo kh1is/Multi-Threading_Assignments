@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541099369 source:/home/khalil/Desktop/code blocks projects/Lab 02/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
